@@ -1,0 +1,7 @@
+# King John 1205 - Python Dependencies
+
+# Optional: Color support for Windows terminals
+# colorama>=0.4.6
+
+# Note: Currently no required dependencies
+# Game runs on Python 3.9+ standard library only
